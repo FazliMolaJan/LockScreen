@@ -1,0 +1,1 @@
+﻿# 一键锁屏 [下载APP](https://github.com/anysou/LockScreen/raw/master/LookScreen.apk)
